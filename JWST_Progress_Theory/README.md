@@ -30,7 +30,7 @@
 
 \### 🔬 Быстрая проверка
 
-\`\`\`bash
+
 зайти в папку JWST_Progress_Theory
 открыть cmd (с предварительно скачаным python)
 ввести в cmd:
@@ -46,5 +46,6 @@ python calculation.py
 Email: aawen7422@gmail.com
 
 Telegram: @Medvedofsa
+
 
 
